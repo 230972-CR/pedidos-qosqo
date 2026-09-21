@@ -1,7 +1,11 @@
+
+
 # Sazón Cusco — Sistema web de pedidos de comida local
 
-Proyecto del **Laboratorio 1: Introducción al entorno de desarrollo y Git**
-(Ingeniería de Software).
+**Laboratorio 1: Introducción al entorno de desarrollo y Git**
+Curso: Ingeniería de Software I.
+Alumno: Carlos Rodrigo Rivera Solorzano
+Codigo:230972
 
 ## 1. Descripción
 
